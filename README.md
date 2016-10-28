@@ -1,1 +1,5 @@
 这是一个音视频合成的Android项目
+
+ffmpeg部分使用的源码来自 http://blog.csdn.net/leixiaohua1020/article/details/39802913
+
+本项目只是将他的音视频合成实现迁移到了android平台。目前在android上验证可以实现mp3、mp4文件合成为一个新的mp4文件
